@@ -1,7 +1,1 @@
-streamlit==1.26.0
 pandas==2.1.4
-numpy==1.26.4
-plotly==5.17.0
-ccxt==4.1.93
-python-telegram-bot==20.3
-ta==0.10.2

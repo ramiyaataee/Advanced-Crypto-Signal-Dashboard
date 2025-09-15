@@ -1,5 +1,7 @@
 streamlit==1.26.0
 pandas==2.1.1
 numpy==1.26.4
-requests==2.32.0
 plotly==5.17.0
+requests==2.32.0
+python-telegram-bot==20.3
+ta==0.10.2
